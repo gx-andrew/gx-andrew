@@ -25,11 +25,11 @@ RIght now, i am currently working at https://github.com/Techwise-fun but i plan 
 
 #### Programming languages
 * Python
-* Crystal
 * Bash
 * Markdown
 * Html
 * CSS
+* Crystal (*do note, i haven't use this in a long time and i probably forgot most of the syntax*)
 * *basic* javascript
 * *basic* typescript
 * *basic* C++
