@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently a student / developer working for <a href="https://github.com/Techwise-fun">Techwise Education</a>
+I am currently a student / developer working for <a href="https://github.com/AsopT-Education">AsopT Education</a>
 
 you can message me via discord ```gx_andrew```
 
@@ -11,13 +11,13 @@ or by email: <a href="mailto:andrew.gx@aol.com">andrew.gx@aol.com</a>
 > <sub> (please note, it will take up to 10 day for an response if you send it via email, i prefer viber as you'll get an response within 12 hour) </sub>
 
 
-DO NOTE i use codeberg as my main profile, github is used for commits to Techwise education.
+DO NOTE i use codeberg as my main profile, github is used for commits to AsopT Education.
 
 
 ---
 
 # Personal background
-Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit but since I joined Techwise.fun charity, i have been learning designing and UI and css animations. As well as some networking stuff, like protocols, NATs and TLS, SSL encryption. 
+Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit but since I joined AsopT Education charity, i have been learning designing and UI and css animations. As well as some networking stuff, like protocols, NATs and TLS, SSL encryption. 
 RIght now, i am currently working at https://github.com/Techwise-fun but i plan to take an internship at ACE co.ltd soon.
 
 ---
