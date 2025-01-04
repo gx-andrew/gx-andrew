@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently a student / developer working for <a href="https://github.com/AsopT-Education">AsopT Education</a>
+I am currently a student / developer working for <a href="https://github.com/Asop-Education">Asop Education</a>
 
 you can message me via discord ```gx_andrew```
 
@@ -11,7 +11,7 @@ or by email: <a href="mailto:andrew.gx@aol.com">andrew.gx@aol.com</a>
 > <sub> (please note, it will take up to 10 day for an response if you send it via email, i prefer viber as you'll get an response within 12 hour) </sub>
 
 
-DO NOTE i use codeberg as my main profile, github is used for commits to AsopT Education.
+DO NOTE i use codeberg as my main profile, github is used for commits to Asop Education.
 
 
 ---
