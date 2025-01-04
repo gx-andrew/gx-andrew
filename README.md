@@ -18,7 +18,7 @@ DO NOTE i use codeberg as my main profile, github is used for commits to Asop Ed
 
 # Personal background
 Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit but since I joined AsopT Education charity, i have been learning designing and UI and css animations. As well as some networking stuff, like protocols, NATs and TLS, SSL encryption. 
-RIght now, i am currently working at https://github.com/Techwise-fun but i plan to take an internship at ACE co.ltd soon.
+RIght now, i am currently working at https://github.com/ASOP-Education but i plan to take an internship at ACE co.ltd soon.
 
 ---
 # Skiils and tools 
