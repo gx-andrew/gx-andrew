@@ -12,8 +12,6 @@ or by email: <a href="mailto:andrewgx@tuta.io">andrewgx@tuta.io</a>
 > <sub> (please note, it will take up to 10 day for an response if you send it via email, i prefer viber as you'll get an response within 12 hour) </sub>
 
 
-DO NOTE i use codeberg as my main profile, github is used for commits to Asop Education.
-
 
 ---
 
