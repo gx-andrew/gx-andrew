@@ -16,8 +16,10 @@ or by email: <a href="mailto:andrewgx@tuta.io">andrewgx@tuta.io</a>
 ---
 
 # Personal background
-Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit but since I joined AsopT Education charity, i have been learning designing and UI and css animations. As well as some networking stuff, like protocols, NATs and TLS, SSL encryption. 
-RIght now, i am currently working at https://github.com/ASOP-digital but i plan to take an internship at ACE co.ltd soon.
+Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit and all-things-linux. 
+RIght now, i am currently working at https://github.com/ASOP-digital full time and have a part-time/internship at https://z.com/mm/en
+
+
 
 ---
 # Skiils and tools 
@@ -26,6 +28,7 @@ RIght now, i am currently working at https://github.com/ASOP-digital but i plan 
 * Python
 * Bash
 * Markdown
+* mdx
 * Html
 * CSS
 * Crystal (*do note, i haven't use this in a long time and i probably forgot most of the syntax*)
@@ -75,6 +78,59 @@ RIght now, i am currently working at https://github.com/ASOP-digital but i plan 
 * yarn
 > <sub> There are more tools i use such as penpot or figma but i wont list them all, here are the main components i can use and deploy confidently.  </sub>
 ---
+
+
+# OTHER 
+
+## Hobbies
+- Gothic shit
+- Oppo
+- Venson badminton
+- coding
+- solving problems
+
+## Music 
+- Gothic Rock
+- Taylor Swift
+- Daughter
+- Wisp
+- Gigi Perez
+- CAS
+- Rae Nyadya
+- Roar
+
+## Favourite people
+- Chance
+- Len
+- the 4 dude that work with me in my part time job
+> Weird useless category, felt fun to do it
+
+## Favourite food
+- hotpot
+- french fries
+
+## Favourite type of flower
+- purple tulip
+- purple rose
+
+## Wishlist
+- need $920 to run my vps servers for a whole year
+- New Chair
+- 72.
+- 200 sleeping pills
+- 3 more bottles of Burberry Her Perfume from myst
+- New 8 inch knife
+- 21 paper cutters
+- Raspberry pi 4
+- Standing Desk
+- 3 cpu (Ryzen 7)
+- small generator to keep my self hosted server up
+- Cat 8 ethernet cable (3m long)
+- New Shoes
+- New PSU
+- Upgrading my wifi plan to 3gbps
+- Oppo Band (whatever is the latest)
+
 
 
 
