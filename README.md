@@ -6,7 +6,8 @@ you can message me via discord ```gx_andrew```
 
 or by viber if you prefer to ```+95 9781282378```
 
-or by email: <a href="mailto:andrew.gx@tuta.io">andrew.gx@tuta.io</a> 
+or by email: <a href="mailto:andrewgx@tuta.io">andrewgx@tuta.io</a> 
+- For support / service reasons please email <a href="mailto:customer@asop.asia">customer@asop.asia</a>
 
 > <sub> (please note, it will take up to 10 day for an response if you send it via email, i prefer viber as you'll get an response within 12 hour) </sub>
 
