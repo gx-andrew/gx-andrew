@@ -31,8 +31,9 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 * mdx
 * Html
 * CSS
+* Tailwind CSS
+* javascript
 * Crystal (*do note, i haven't use this in a long time and i probably forgot most of the syntax*)
-* *basic* javascript
 * *basic* typescript
 * *basic* C++
 * *Basic* Elixir
@@ -43,13 +44,14 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 * *Learning* java
 * *Learning* VB.net
 * *Learning* Lisp
-* *Learning* RUby
+* *Learning* RUby 
 * *Looking into* F#
 * *Looking into* Oberon
+* *Looking into* Rust
 
 #### Framworks 
 * Django
-* Astro
+* Astro (Most used)
 * *basic* React
 * *basic* Svelte
 * *Looking into* Node.js
@@ -76,7 +78,8 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 * Andriod Studio
 * npm
 * yarn
-> <sub> There are more tools i use such as penpot or figma but i wont list them all, here are the main components i can use and deploy confidently.  </sub>
+* *Learning* Wordpress ATM
+> <sub> There are more tools but i wont list them all, here are the main components i can use and deploy confidently.  </sub>
 ---
 
 
@@ -100,10 +103,10 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 - Roar
 
 ## Favourite people
-- Chance
-- Len
-- the 4 dude that work with me in my part time job
-> Weird useless category, felt fun to do it
+1. Soli <3
+2. Chance :3
+3. Helen >.<
+- Thank you for being there for me when i needed it the most, you guys are the reason why im still alive. 
 
 ## Favourite food
 - hotpot
@@ -114,22 +117,23 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 - purple rose
 
 ## Wishlist
-- need $920 to run my vps servers for a whole year
-- New Chair
-- 72.
-- 200 sleeping pills
-- 3 more bottles of Burberry Her Perfume from myst
-- New 8 inch knife
-- 21 paper cutters
-- Raspberry pi 4
-- Standing Desk
-- 3 cpu (Ryzen 7)
-- small generator to keep my self hosted server up
-- Cat 8 ethernet cable (3m long)
-- New Shoes
-- New PSU
-- Upgrading my wifi plan to 3gbps
-- Oppo Band (whatever is the latest)
+- [ ] need $920 to run my vps servers for a whole year
+- [ ] New Chair
+- [ ] 500 sleeping pills
+- [ ] 3 more bottles of Burberry Her Perfume from myst
+- [x] New 8 inch knife
+- [ ] Raspberry pi 4
+- [ ] Standing Desk
+- [ ] 3 cpu (Ryzen 7)
+- [ ] small generator to keep my self hosted server up
+- [ ] Cat 8 ethernet cable (3m long)
+- [ ] New Shoes
+- [ ] Upgrading my wifi plan to 3gbps
+- [ ] Oppo watch (whatever is the latest)
+- [ ] Visa credit Card
+- [ ] Dress for her.
+- [ ] Another remote partime job
+- [ ] 
 
 
 
