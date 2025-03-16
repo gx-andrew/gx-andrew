@@ -17,7 +17,7 @@ or by email: <a href="mailto:andrewgx@tuta.io">andrewgx@tuta.io</a>
 
 # Personal background
 Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit and all-things-linux. 
-RIght now, i am currently working at https://github.com/ASOP-digital full time and have a part-time/internship at https://z.com/mm/en
+RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time and is working full time on https://asop.asia/
 
 
 
@@ -52,9 +52,21 @@ RIght now, i am currently working at https://github.com/ASOP-digital full time a
 #### Framworks 
 * Django
 * Astro (Most used)
-* *basic* React
+* *basic* React (paired with astro's islands)
 * *basic* Svelte
 * *Looking into* Node.js
+
+### TechStack
+> ![important] PTTARR
+* Postgres
+* Tailwind CSS
+* Typescript
+* Astrojs
+* React (using astro's islands)
+* REST
+> * Git for version control
+> * Vercel, netlify, gitlab pages for deployment, depending on project
+> * Github & gitlab & bitbucket for code hosting
 
 #### Tools (most used to least used)
 * Linux Debian (everyday)
