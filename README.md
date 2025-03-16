@@ -17,7 +17,7 @@ or by email: <a href="mailto:andrewgx@tuta.io">andrewgx@tuta.io</a>
 
 # Personal background
 Grew up in Myanmar, formally Burma. I am a passionate student programmer that is really into tech and all sorts of stuff. I usually like to do backend shit and all-things-linux. 
-RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time and is working full time on https://asop.asia/
+RIght now, i ~~am currently~~ Used to worked at https://z.com/mm/en partime time and is working full time on https://asop.asia/
 
 
 
@@ -45,8 +45,6 @@ RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time
 * *Learning* VB.net
 * *Learning* Lisp
 * *Learning* RUby 
-* *Looking into* F#
-* *Looking into* Oberon
 * *Looking into* Rust
 
 #### Framworks 
@@ -57,7 +55,7 @@ RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time
 * *Looking into* Node.js
 
 ### TechStack
-> ![important] PTTARR
+> **PTTARR**
 * Postgres
 * Tailwind CSS
 * Typescript
@@ -84,9 +82,10 @@ RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time
 * PenPot
 * Figma
 * NeoVim (Although og VIM is my fav)
-* Nano (for debian based distros)
+* Nano (simple tasks)
 * Emacs
 * MongoDB
+* Postgres
 * Andriod Studio
 * npm
 * yarn
@@ -132,20 +131,22 @@ RIght now, i am ~~currently~~ Used to worked at https://z.com/mm/en partime time
 - [ ] need $920 to run my vps servers for a whole year
 - [ ] New Chair
 - [ ] 500 sleeping pills
-- [ ] 3 more bottles of Burberry Her Perfume from myst
+- [x] 3 more bottles of Burberry Her Perfume from myst
 - [x] New 8 inch knife
 - [ ] Raspberry pi 4
 - [ ] Standing Desk
 - [ ] 3 cpu (Ryzen 7)
 - [ ] small generator to keep my self hosted server up
 - [ ] Cat 8 ethernet cable (3m long)
-- [ ] New Shoes
+- [x] New Shoes
 - [ ] Upgrading my wifi plan to 3gbps
 - [ ] Oppo watch (whatever is the latest)
 - [ ] Visa credit Card
-- [ ] Dress for her.
+- [x] Dress for her.
 - [ ] Another remote partime job
-- [ ] 
+- [ ] A life
+- [ ] touch Grass
+- [ ] $200 for my birthday
 
 
 
