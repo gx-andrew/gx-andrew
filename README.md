@@ -114,9 +114,10 @@ RIght now, i ~~am currently~~ Used to worked at https://z.com/mm/en partime time
 - Roar
 
 ## Favourite people
-1. Soli <3
-2. Chance :3
-3. Helen >.<
+1. Helen >.<
+2. Hsya :3
+3. nan-nan ;D
+4. cho-cho ;0
 - Thank you for being there for me when i needed it the most, you guys are the reason why im still alive. 
 
 ## Favourite food
