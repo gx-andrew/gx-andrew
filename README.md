@@ -32,8 +32,8 @@ RIght now, i ~~am currently~~ Used to worked at https://z.com/mm/en partime time
 * Html
 * CSS
 * Tailwind CSS
-* javascript
 * Crystal (*do note, i haven't use this in a long time and i probably forgot most of the syntax*)
+* *basic* javascript
 * *basic* typescript
 * *basic* C++
 * *Basic* Elixir
